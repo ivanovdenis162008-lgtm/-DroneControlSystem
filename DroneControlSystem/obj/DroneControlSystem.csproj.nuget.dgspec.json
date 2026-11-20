@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Practice\\source\\repos\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem.csproj": {}
+    "C:\\Users\\Practice\\Desktop\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Practice\\source\\repos\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem.csproj": {
+    "C:\\Users\\Practice\\Desktop\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Practice\\source\\repos\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Practice\\Desktop\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem.csproj",
         "projectName": "DroneControlSystem",
-        "projectPath": "C:\\Users\\Practice\\source\\repos\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem.csproj",
+        "projectPath": "C:\\Users\\Practice\\Desktop\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem.csproj",
         "packagesPath": "C:\\Users\\Practice\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Practice\\source\\repos\\DroneControlSystem\\DroneControlSystem\\obj\\",
+        "outputPath": "C:\\Users\\Practice\\Desktop\\DroneControlSystem\\DroneControlSystem\\DroneControlSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Practice\\AppData\\Roaming\\NuGet\\NuGet.Config",
